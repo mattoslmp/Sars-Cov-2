@@ -1,1 +1,1 @@
-# sars-cov-2
+# Sars-cov-2
